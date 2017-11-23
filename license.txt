@@ -1,3 +1,6 @@
 PUBLIC I KENAN
 salt soul broke heart 
 sorrow winter
+git pull 
+git push
+git checkout -b branch-name orgin/branch-name
