@@ -1,4 +1,0 @@
-PUBLIC I KENAN
-salt soul broke heart 
-sorrow winter
-git branch --set-upstream dev orgin/dev
